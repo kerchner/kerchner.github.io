@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Dan Kerchner
 locale:           en_US
 logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Dan Kerchner
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "A brief description of Dan."
+  email: dan.kerchner@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: @DanKerchner
   facebook: #username
   google:
     plus: #username
@@ -22,7 +22,7 @@ owner:
   bing-verify:
   github: #username
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: Dan.Kerchner.PM
   xing: #username
   instagram: #username
   lastfm: #username
