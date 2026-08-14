@@ -48,9 +48,9 @@ div.about-links .about-link {
 }
 
 // Trestles: narrow the image/links column (default 42%) so main content gets more room
-@media (min-width: 992px) {
+@media (min-width: 950px) {
   div.quarto-about-trestles .about-entity {
-    flex: 0 0 28%;
+    flex: 0 0 20%;
   }
 
   div.quarto-about-trestles .about-contents {
