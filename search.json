@@ -1,87 +1,59 @@
 [
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "Daniel Kerchner’s personal academic website",
     "section": "",
-    "text": "Selected talks, guest lectures, and conference presentations."
+    "text": "Quarto website (no executable code cells) published to https://kerchner.github.io. Source of truth for content is Dan’s CV PDF (kept at repo root, untracked).\n\n\n\n_quarto.yml — site config: navbar, footer, cosmo base theme + styles/theme.scss (light) and styles/theme-dark.scss (dark)\nindex.qmd — trestles-style about page (headshot, bio, education, highlights)\nexperience.qmd, research.qmd, teaching.qmd, publications.qmd, presentations.qmd — content pages\nassets/ — kerchner-cv.pdf and DanHeadshot.jpg (stable filenames; linked from multiple pages)\n\n\n\n\n\nPublications/presentations are hand-authored markdown lists (not Quarto listings or BibTeX). Dan’s name bolded (**Kerchner D.**), DOIs linked as https://doi.org/&lt;doi&gt;, reverse-chronological within sections.\nNever link URL shorteners (bit.ly/tinyurl) — resolve and link the canonical destination; use archive.org if the original is dead.\nWhen updating the CV, overwrite assets/kerchner-cv.pdf in place — do not add dated filenames; the link URL must stay stable.\nContact email is kerchner@gwu.edu (not kerchner@email.gwu.edu).\nKeep the two SCSS themes’ typography identical; only colors differ between light and dark.\n\n\n\n\n\nSource lives on main; the rendered site is force-pushed to gh-pages by Quarto. GitHub Pages serves the gh-pages branch (do not switch it back to main — that serves raw .qmd files).\nTo deploy: commit changes to main (publish requires a clean working tree), then quarto publish gh-pages --no-prompt.\nPreview locally with quarto preview; _site/ and .quarto/ are generated and git-ignored.\nDan’s pre-2021 Jekyll site lives in the separate kerchner-old-personal-site repo — unrelated to this one."
   },
   {
-    "objectID": "presentations.html#section",
-    "href": "presentations.html#section",
-    "title": "Presentations",
-    "section": "2026",
-    "text": "2026\n\nKerchner D. (March 2026). Pixi: Fast, Reproducible Environments for Python, R and More Without the Headaches. GW Open Source Conference."
+    "objectID": "CLAUDE.html#structure",
+    "href": "CLAUDE.html#structure",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "_quarto.yml — site config: navbar, footer, cosmo base theme + styles/theme.scss (light) and styles/theme-dark.scss (dark)\nindex.qmd — trestles-style about page (headshot, bio, education, highlights)\nexperience.qmd, research.qmd, teaching.qmd, publications.qmd, presentations.qmd — content pages\nassets/ — kerchner-cv.pdf and DanHeadshot.jpg (stable filenames; linked from multiple pages)"
   },
   {
-    "objectID": "presentations.html#section-1",
-    "href": "presentations.html#section-1",
-    "title": "Presentations",
-    "section": "2025",
-    "text": "2025\n\nKerchner D. (March 2025). Positioning the R in Open Source: RStudio + GitHub + renv Workflows. GW Open Source Conference.\nKerchner D. (July 2024 and July 2025). You Can Be a GW Student Too! A Guide for LAI Staff and Librarians. LAI Institute."
+    "objectID": "CLAUDE.html#conventions",
+    "href": "CLAUDE.html#conventions",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "Publications/presentations are hand-authored markdown lists (not Quarto listings or BibTeX). Dan’s name bolded (**Kerchner D.**), DOIs linked as https://doi.org/&lt;doi&gt;, reverse-chronological within sections.\nNever link URL shorteners (bit.ly/tinyurl) — resolve and link the canonical destination; use archive.org if the original is dead.\nWhen updating the CV, overwrite assets/kerchner-cv.pdf in place — do not add dated filenames; the link URL must stay stable.\nContact email is kerchner@gwu.edu (not kerchner@email.gwu.edu).\nKeep the two SCSS themes’ typography identical; only colors differ between light and dark."
   },
   {
-    "objectID": "presentations.html#section-2",
-    "href": "presentations.html#section-2",
-    "title": "Presentations",
-    "section": "2024",
-    "text": "2024\n\nKerchner D. (May 2024). Association of Maternal Gestational Diabetes Mellitus with Newborn Gut Metabolome. GW Biostatistics Center."
+    "objectID": "CLAUDE.html#publishing",
+    "href": "CLAUDE.html#publishing",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "Source lives on main; the rendered site is force-pushed to gh-pages by Quarto. GitHub Pages serves the gh-pages branch (do not switch it back to main — that serves raw .qmd files).\nTo deploy: commit changes to main (publish requires a clean working tree), then quarto publish gh-pages --no-prompt.\nPreview locally with quarto preview; _site/ and .quarto/ are generated and git-ignored.\nDan’s pre-2021 Jekyll site lives in the separate kerchner-old-personal-site repo — unrelated to this one."
   },
   {
-    "objectID": "presentations.html#section-3",
-    "href": "presentations.html#section-3",
-    "title": "Presentations",
-    "section": "2023",
-    "text": "2023\n\nKerchner D. (March 2023). Librarians Launching Success in the Era of Coding as an Essential Researcher Literacy. Empirical Librarians Conference."
+    "objectID": "AGENTS.html",
+    "href": "AGENTS.html",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "Quarto website (no executable code cells) published to https://kerchner.github.io. Source of truth for content is Dan’s CV PDF (kept at repo root, untracked).\n\n\n\n_quarto.yml — site config: navbar, footer, cosmo base theme + styles/theme.scss (light) and styles/theme-dark.scss (dark)\nindex.qmd — trestles-style about page (headshot, bio, education, highlights)\nexperience.qmd, research.qmd, teaching.qmd, publications.qmd, presentations.qmd — content pages\nassets/ — kerchner-cv.pdf and DanHeadshot.jpg (stable filenames; linked from multiple pages)\n\n\n\n\n\nPublications/presentations are hand-authored markdown lists (not Quarto listings or BibTeX). Dan’s name bolded (**Kerchner D.**), DOIs linked as https://doi.org/&lt;doi&gt;, reverse-chronological within sections.\nNever link URL shorteners (bit.ly/tinyurl) — resolve and link the canonical destination; use archive.org if the original is dead.\nWhen updating the CV, overwrite assets/kerchner-cv.pdf in place — do not add dated filenames; the link URL must stay stable.\nContact email is kerchner@gwu.edu (not kerchner@email.gwu.edu).\nKeep the two SCSS themes’ typography identical; only colors differ between light and dark.\n\n\n\n\n\nSource lives on main; the rendered site is force-pushed to gh-pages by Quarto. GitHub Pages serves the gh-pages branch (do not switch it back to main — that serves raw .qmd files).\nTo deploy: commit changes to main (publish requires a clean working tree), then quarto publish gh-pages --no-prompt.\nPreview locally with quarto preview; _site/ and .quarto/ are generated and git-ignored.\nDan’s pre-2021 Jekyll site lives in the separate kerchner-old-personal-site repo — unrelated to this one."
   },
   {
-    "objectID": "presentations.html#section-4",
-    "href": "presentations.html#section-4",
-    "title": "Presentations",
-    "section": "2021",
-    "text": "2021\n\nKerchner D. (December 2021). Social Feed Manager: A Social Media Capture Tool. Digital Preservation Coalition (UK) Web Archiving & Preservation Working Group General Meeting.\nKerchner D. (November 2021). Version Control and Collaboration with Git[Hub], Showcasing Your Work with GitHub Pages, and Your Code as a Scholarly Object with Zenodo. Guest lecture, GW PUBH 6860 Principles of Bioinformatics.\nKerchner D. (April 2021). Bash Shell / Unix Command Line. Guest speaker, GW Coders meeting.\nKerchner D., Bahador B. (January 2021). Spark Talk: Monitoring Hate Speech During the 2020 Presidential Election."
+    "objectID": "AGENTS.html#structure",
+    "href": "AGENTS.html#structure",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "_quarto.yml — site config: navbar, footer, cosmo base theme + styles/theme.scss (light) and styles/theme-dark.scss (dark)\nindex.qmd — trestles-style about page (headshot, bio, education, highlights)\nexperience.qmd, research.qmd, teaching.qmd, publications.qmd, presentations.qmd — content pages\nassets/ — kerchner-cv.pdf and DanHeadshot.jpg (stable filenames; linked from multiple pages)"
   },
   {
-    "objectID": "presentations.html#section-5",
-    "href": "presentations.html#section-5",
-    "title": "Presentations",
-    "section": "2020",
-    "text": "2020\n\nKerchner D. (August 2020). The ISIS Files: A Hyrax Implementation. Guest speaker, Samvera Partners call.\nKerchner D., Wrubel L. (February 2020). Social Feed Manager. Digital Preservation Coalition webinar."
+    "objectID": "AGENTS.html#conventions",
+    "href": "AGENTS.html#conventions",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "Publications/presentations are hand-authored markdown lists (not Quarto listings or BibTeX). Dan’s name bolded (**Kerchner D.**), DOIs linked as https://doi.org/&lt;doi&gt;, reverse-chronological within sections.\nNever link URL shorteners (bit.ly/tinyurl) — resolve and link the canonical destination; use archive.org if the original is dead.\nWhen updating the CV, overwrite assets/kerchner-cv.pdf in place — do not add dated filenames; the link URL must stay stable.\nContact email is kerchner@gwu.edu (not kerchner@email.gwu.edu).\nKeep the two SCSS themes’ typography identical; only colors differ between light and dark."
   },
   {
-    "objectID": "presentations.html#section-6",
-    "href": "presentations.html#section-6",
-    "title": "Presentations",
-    "section": "2019",
-    "text": "2019\n\nKerchner D. (November 2019). RStudio + Git for Collaboration and Reproducibility. GW Milken Institute Department of Epidemiology seminar, Washington, DC.\nKerchner D. (September 2019). Social Feed Manager: Helping Researchers and Archivists Build Social Media Collections. iPres 2019 Conference on Digital Preservation, Amsterdam, Netherlands.\nKerchner D. (July 2019). Getting Data With APIs. Capital Area Business Academic Librarians Summer Meeting."
-  },
-  {
-    "objectID": "presentations.html#section-7",
-    "href": "presentations.html#section-7",
-    "title": "Presentations",
-    "section": "2018",
-    "text": "2018\n\nKerchner D., Wrubel L. (December 2018). Social Feed Manager & Social Media Archiving. Digital Preservation Coalition webinar."
-  },
-  {
-    "objectID": "presentations.html#section-8",
-    "href": "presentations.html#section-8",
-    "title": "Presentations",
-    "section": "2017",
-    "text": "2017\n\nYe D., Kerchner D., Ye H. (March 2017). Web Archiving for Librarians: A Three-University Collaboration to Preserve Non-Official Voices in China’s Anti-Corruption Campaign. ACRL Annual Meeting, Baltimore, MD.\nKerchner D., Wrubel L., Littman J. (March 2017). Coding Consultations: Meeting Today’s Needs With a New Library Service. WRLC Annual Meeting, Washington, DC."
-  },
-  {
-    "objectID": "presentations.html#section-9",
-    "href": "presentations.html#section-9",
-    "title": "Presentations",
-    "section": "2016",
-    "text": "2016\n\nKerchner D. (September 2016). GW ScholarSpace and the Making of a More Agile Library. GW Project Management Symposium, Washington, DC."
-  },
-  {
-    "objectID": "presentations.html#section-10",
-    "href": "presentations.html#section-10",
-    "title": "Presentations",
-    "section": "2013",
-    "text": "2013\n\nChudnov D., Kerchner D., Wrubel L. (December 2013). Collecting Social Media and Supporting Twitter Research with Social Feed Manager. Coalition for Networked Information annual meeting, Washington, DC."
+    "objectID": "AGENTS.html#publishing",
+    "href": "AGENTS.html#publishing",
+    "title": "Daniel Kerchner’s personal academic website",
+    "section": "",
+    "text": "Source lives on main; the rendered site is force-pushed to gh-pages by Quarto. GitHub Pages serves the gh-pages branch (do not switch it back to main — that serves raw .qmd files).\nTo deploy: commit changes to main (publish requires a clean working tree), then quarto publish gh-pages --no-prompt.\nPreview locally with quarto preview; _site/ and .quarto/ are generated and git-ignored.\nDan’s pre-2021 Jekyll site lives in the separate kerchner-old-personal-site repo — unrelated to this one."
   },
   {
     "objectID": "experience.html",
@@ -264,5 +236,89 @@
     "title": "Publications",
     "section": "Datasets, Reports & Other Publications",
     "text": "Datasets, Reports & Other Publications\n\nKerchner D., Wrubel L. (2020). Coronavirus Tweet Ids [Data set]. Harvard Dataverse. doi:10.7910/DVN/LW0BTB\nBahador B., Kerchner D. (2019). Monitoring Hate Speech in the US Media (report). GW Media and Peacebuilding Project.\nKerchner D. (2016). Are You Living in a Filter Bubble? Web searching, privacy, objectivity, and GW Libraries search (blog post; archived).\nKerchner D. (1996). Forecasting Site Selection Using Data Association. Master’s thesis, University of Virginia."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Selected talks, guest lectures, and conference presentations."
+  },
+  {
+    "objectID": "presentations.html#section",
+    "href": "presentations.html#section",
+    "title": "Presentations",
+    "section": "2026",
+    "text": "2026\n\nKerchner D. (March 2026). Pixi: Fast, Reproducible Environments for Python, R and More Without the Headaches. GW Open Source Conference."
+  },
+  {
+    "objectID": "presentations.html#section-1",
+    "href": "presentations.html#section-1",
+    "title": "Presentations",
+    "section": "2025",
+    "text": "2025\n\nKerchner D. (March 2025). Positioning the R in Open Source: RStudio + GitHub + renv Workflows. GW Open Source Conference.\nKerchner D. (July 2024 and July 2025). You Can Be a GW Student Too! A Guide for LAI Staff and Librarians. LAI Institute."
+  },
+  {
+    "objectID": "presentations.html#section-2",
+    "href": "presentations.html#section-2",
+    "title": "Presentations",
+    "section": "2024",
+    "text": "2024\n\nKerchner D. (May 2024). Association of Maternal Gestational Diabetes Mellitus with Newborn Gut Metabolome. GW Biostatistics Center."
+  },
+  {
+    "objectID": "presentations.html#section-3",
+    "href": "presentations.html#section-3",
+    "title": "Presentations",
+    "section": "2023",
+    "text": "2023\n\nKerchner D. (March 2023). Librarians Launching Success in the Era of Coding as an Essential Researcher Literacy. Empirical Librarians Conference."
+  },
+  {
+    "objectID": "presentations.html#section-4",
+    "href": "presentations.html#section-4",
+    "title": "Presentations",
+    "section": "2021",
+    "text": "2021\n\nKerchner D. (December 2021). Social Feed Manager: A Social Media Capture Tool. Digital Preservation Coalition (UK) Web Archiving & Preservation Working Group General Meeting.\nKerchner D. (November 2021). Version Control and Collaboration with Git[Hub], Showcasing Your Work with GitHub Pages, and Your Code as a Scholarly Object with Zenodo. Guest lecture, GW PUBH 6860 Principles of Bioinformatics.\nKerchner D. (April 2021). Bash Shell / Unix Command Line. Guest speaker, GW Coders meeting.\nKerchner D., Bahador B. (January 2021). Spark Talk: Monitoring Hate Speech During the 2020 Presidential Election."
+  },
+  {
+    "objectID": "presentations.html#section-5",
+    "href": "presentations.html#section-5",
+    "title": "Presentations",
+    "section": "2020",
+    "text": "2020\n\nKerchner D. (August 2020). The ISIS Files: A Hyrax Implementation. Guest speaker, Samvera Partners call.\nKerchner D., Wrubel L. (February 2020). Social Feed Manager. Digital Preservation Coalition webinar."
+  },
+  {
+    "objectID": "presentations.html#section-6",
+    "href": "presentations.html#section-6",
+    "title": "Presentations",
+    "section": "2019",
+    "text": "2019\n\nKerchner D. (November 2019). RStudio + Git for Collaboration and Reproducibility. GW Milken Institute Department of Epidemiology seminar, Washington, DC.\nKerchner D. (September 2019). Social Feed Manager: Helping Researchers and Archivists Build Social Media Collections. iPres 2019 Conference on Digital Preservation, Amsterdam, Netherlands.\nKerchner D. (July 2019). Getting Data With APIs. Capital Area Business Academic Librarians Summer Meeting."
+  },
+  {
+    "objectID": "presentations.html#section-7",
+    "href": "presentations.html#section-7",
+    "title": "Presentations",
+    "section": "2018",
+    "text": "2018\n\nKerchner D., Wrubel L. (December 2018). Social Feed Manager & Social Media Archiving. Digital Preservation Coalition webinar."
+  },
+  {
+    "objectID": "presentations.html#section-8",
+    "href": "presentations.html#section-8",
+    "title": "Presentations",
+    "section": "2017",
+    "text": "2017\n\nYe D., Kerchner D., Ye H. (March 2017). Web Archiving for Librarians: A Three-University Collaboration to Preserve Non-Official Voices in China’s Anti-Corruption Campaign. ACRL Annual Meeting, Baltimore, MD.\nKerchner D., Wrubel L., Littman J. (March 2017). Coding Consultations: Meeting Today’s Needs With a New Library Service. WRLC Annual Meeting, Washington, DC."
+  },
+  {
+    "objectID": "presentations.html#section-9",
+    "href": "presentations.html#section-9",
+    "title": "Presentations",
+    "section": "2016",
+    "text": "2016\n\nKerchner D. (September 2016). GW ScholarSpace and the Making of a More Agile Library. GW Project Management Symposium, Washington, DC."
+  },
+  {
+    "objectID": "presentations.html#section-10",
+    "href": "presentations.html#section-10",
+    "title": "Presentations",
+    "section": "2013",
+    "text": "2013\n\nChudnov D., Kerchner D., Wrubel L. (December 2013). Collecting Social Media and Supporting Twitter Research with Social Feed Manager. Coalition for Networked Information annual meeting, Washington, DC."
   }
 ]

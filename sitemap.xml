@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kerchner.github.io/presentations.html</loc>
-    <lastmod>2026-08-14T16:50:53.516Z</lastmod>
+    <loc>https://kerchner.github.io/CLAUDE.html</loc>
+    <lastmod>2026-08-14T16:58:14.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kerchner.github.io/AGENTS.html</loc>
+    <lastmod>2026-08-14T16:58:14.017Z</lastmod>
   </url>
   <url>
     <loc>https://kerchner.github.io/experience.html</loc>
@@ -23,5 +27,9 @@
   <url>
     <loc>https://kerchner.github.io/publications.html</loc>
     <lastmod>2026-08-14T16:51:09.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kerchner.github.io/presentations.html</loc>
+    <lastmod>2026-08-14T16:50:53.516Z</lastmod>
   </url>
 </urlset>
