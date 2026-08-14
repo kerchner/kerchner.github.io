@@ -1,0 +1,45 @@
+---
+title: "Research & Projects"
+---
+
+## Doctoral Research
+
+**Benchmarking and application of genomic language models (gLMs)** for taxonomic and functional profiling in human multi-omics microbiome research (George Washington University, PhD in Health Data Science – Bioinformatics, expected 2028). My work explores how novel gLMs can improve omics characterization over traditional, search-based techniques.
+
+## Weill Cornell Medical College
+*2021 – Present · Collaboration with Dr. Nili Solomonov*
+
+- Applying a Treatment Decision Rule–based framework for optimally assigning patients with late-life depression to psychotherapy vs. usual care — published in [*JAMA Psychiatry*](https://doi.org/10.1001/jamapsychiatry.2025.2518).
+- Analysis and visualization of depression trajectories in a large cohort of perinatal women — published in [*JAMA Network Open*](https://doi.org/10.1001/jamanetworkopen.2025.33111).
+
+## George Washington University
+*2013 – Present*
+
+- **Master of Science project:** Association of maternal gestational diabetes mellitus with newborn gut metabolome.
+- **Machine learning:** Predictive modeling to identify biomarkers associated with asthma comorbidity using both clinical and airway microbiome data.
+- **FDA-ARGOS:** Data harmonization to prototype the FDA-ARGOS database of reference-grade microbial sequences, in collaboration with Dr. Keith Crandall.
+- **COVID-19 meta-analysis:** PRISMA and other projects — advising on R coding, data wrangling, and data visualization, collaborating with Dr. Fouzia Farooq, Dept. of Global Health.
+- **Geospatial analysis:** Collaborated with Dr. Hilary Silver, Dept. of Sociology, on geospatial data analysis of DC homeless shelter proposal feedback from local residents, using R.
+- **Maternal health:** Collaborated with Dr. Ethan Litman, GW School of Medicine, on data analysis of maternal deliveries before and during the COVID-19 pandemic.
+- **Mental health influencers:** Collaborated with Dr. Bagmi Das, GW School of Education and Human Development, to build data collection for an Asian-American/Pacific Islander Mental Health Influencer Study.
+- **Social media & misinformation:** Cross-institutional collaboration led by Dr. David Broniatowski, GW School of Engineering, analyzing and visualizing social media content related to COVID-19.
+- **Health topics on social media:** Collaborated with two teams of medical students under the guidance of Dr. Marie Borum, providing data collection and analysis guidance on social media discussion of health topics during the COVID-19 pandemic.
+- **Extremism research:** Collaborated with the [GW Program on Extremism](https://extremism.gwu.edu/) to collect and analyze social media from Twitter and Telegram in support of research publications and reports.
+- **Text mining:** Collaborated with Dr. Babak Bahador, GW School of Media and Public Affairs, to develop a text mining and data analysis pipeline for transcripts of political talk shows.
+- Consulting on numerous graduate-level and faculty research projects involving data analysis and visualization, across a wide variety of disciplines.
+
+## Software Projects
+
+- **[Social Feed Manager](https://github.com/gwu-libraries/sfm-ui)** — open-source tool for building social media data collections for research (Python, Django, Docker).
+- **[GW ScholarSpace](https://scholarspace.library.gwu.edu/)** — GWU's institutional open-access repository (Hyrax, Ruby on Rails).
+- **[The ISIS Files](https://isisfiles.gwu.edu/)** — Hyrax-based public repository of specialized artifacts, with the [GW Program on Extremism](https://extremism.gwu.edu/).
+- **Open Access Analytics** — data pipeline and dashboard tracking GW Open Access Policy compliance.
+
+See [Experience](experience.qmd) for more on these projects.
+
+## Grants
+
+- **2025** — [US Research Software Engineer (US-RSE) Association](https://us-rse.org/) Community and Travel Funds grant ($1,500) to organize and teach a Metagenomics Data Carpentry workshop at Tel Aviv University in October 2025.
+- **2024** — US-RSE Association Community and Travel Funds grant ($2,500) to organize and teach the first-ever Data Carpentry workshop in Israel: a successful 3-day Genomics Data Carpentry workshop at the Weizmann Institute of Science in October 2024.
+- **2024** — Lesson proposal selected among 8 finalists for the UCLA-IMLS *Lessons for Librarians in Open Science* 2024 cohort, with a $5,000 stipend.
+- **2019–2021** — Co-Principal Investigator, Continuing Education to Advance Web Archiving (CEDWARC), Institute of Museum and Library Services.

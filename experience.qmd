@@ -1,0 +1,72 @@
+---
+title: "Professional Experience"
+---
+
+## George Washington University — Washington, DC
+*May 2013 – Present*
+
+**Senior Software Developer and Librarian**, [GW Libraries](https://library.gwu.edu/)
+
+Developing open-source web applications and infrastructure supporting digital preservation and archiving, web development, catalog integration, and library information technology. Sharing expertise with students, researchers, and faculty by providing consultations and teaching workshops in Python, R, and related topics focused on data skills. Projects include:
+
+- **Open Access Analytics** — Building a data pipeline and executive-level dashboard to track compliance with GW's new Open Access Policy across faculty-authored scholarly publications.
+- **[GW ScholarSpace](https://scholarspace.library.gwu.edu/)** — Primary software developer of GWU's institutional open-access scholarship repository, built with [Hyrax](https://hyrax.samvera.org/), Ruby on Rails, and other technologies.
+- **[The ISIS Files](https://isisfiles.gwu.edu/)** — Primary software developer for a Hyrax-based public repository of specialized artifacts, in collaboration with the [GW Program on Extremism](https://extremism.gwu.edu/).
+- **[Social Feed Manager](https://github.com/gwu-libraries/sfm-ui)** — Software developer of this GWU-built tool that helps researchers build collections of social media data from Twitter and other platforms. Built with Python, Django, PostgreSQL, Docker, APScheduler, RabbitMQ, and other technologies. Worked with numerous researchers in the GWU community to build collections of interest.
+
+**Adjunct Instructor**, [Milken Institute School of Public Health](https://publichealth.gwu.edu/)
+
+Co-creator and co-instructor of a new 1-credit course, *Introduction to R Programming in Public Health and Biomedical Research* (PUBH 6899 / PUBH 6851), offered through the Milken Institute School of Public Health Summer Institute. Delivered online in Summer 2020 and Summer 2021.
+
+## Weill Cornell Medical College
+*November 2021 – Present*
+
+**Data Science / R Coding / Biostatistics Consultant**
+
+Providing advanced data analysis and visualization services, R coding mentoring, and problem-solving consultation for a [psychiatry research group](https://psychiatry.weill.cornell.edu/) performing NIH grant-funded large-scale clinical trial research.
+
+## [Distributed Solutions, Inc.](https://www.distributedinc.com/) — Reston, VA
+*2010 – May 2013*
+
+**Senior Software Product Manager** — Managed product release cycle, development workflow, and issue triage for the AEON acquisition/procurement solution, following a Scrum-based process.
+
+**Customer Program Manager** — Working closely with the Department of Justice Office of Justice Programs, led end-to-end process analysis, data migration, configuration, testing, and training for a new AEON implementation, resulting in on-time initial deployment of the "JPAMS" acquisition management system.
+
+**Software Development and Quality Assurance Manager** — Led, mentored, and supervised a software development team of 10–12 developers and the software quality assurance team. Served as accessibility compliance analyst.
+
+## [CACI International](https://www.caci.com/) / American Management Systems — Fairfax, VA
+*2000 – 2010*
+
+**Senior Project Manager, Library of Congress program** — Managed and hired 30+ staff and contractors, including software developers and technical analysts supporting Library of Congress projects such as the World Digital Library and the National Digital Newspaper Program. Primary liaison with LC directors.
+
+**Program Manager and Technical Architect, DoD Office of Economic Adjustment (OEA) program** — Technical architect for integration of Common Access Card authentication, PKI digital signature capability, and grants.gov integration. Primary liaison with OEA executives; supervised software development and testing teams.
+
+**Technical Architect / Lead Software Developer, ComprizonSuite** — Developed Java-based integration of LDAP authentication and PDF rendering capability.
+
+**Technical Team Lead / Technical Architect, Procurement Desktop-Defense** — Led development of Java-based web services integration with a data security management system; configuration/policy manager for multiple development and testing environments.
+
+**Technical Architect / Lead Software Developer, Procurement Desktop-Industry** — Designed and implemented RTF and PDF document rendering and template design capability (Java, XML/XSLT, third-party software); supervised software development team. Lead data migration analyst on a major upgrade; developed an adapter to integrate with external systems.
+
+**Technical Architect and Software Developer** — Developer of a web-based Internet Billing Consolidator product (Java/J2EE); showcased the product as a sales engineer.
+
+## Johns Hopkins University Applied Physics Laboratory — Laurel, MD
+*1996 – 2000*
+
+**Senior Professional Staff** — Architect and developer of a prototype C++ dynamic linkage of warfighting and logistics simulations at [JHU APL](https://www.jhuapl.edu/); active in integration standards development within the simulation community; decision support expert supporting workshops to achieve consensus on functional requirements for Joint Warfare Simulation software development.
+
+## Earlier Roles
+
+- **Teaching Assistant**, University of Virginia (1994–1996) — Taught *Introduction to Systems Engineering* and *Decision Analysis*.
+- **Teaching Assistant**, Johns Hopkins University Center for Talented Youth (1994) — Taught *Data Structures and Algorithms* (LISP/Scheme).
+- **Software Developer**, Decision-Science Applications, Inc., Arlington, VA (summers, 1990–1993) — Developed data visualization software (C++/X-Windows); developed and implemented mathematical algorithms for radar image processing.
+
+## Professional Certifications
+
+- Certified Data Carpentry / Software Carpentry Instructor, [The Carpentries](https://carpentries.org/) (2018–present)
+- Project Management Professional (PMP), [Project Management Institute](https://www.pmi.org/) (2008–present)
+
+## Professional Memberships
+
+- International Society for Computational Biology
+- Project Management Institute
+- US Research Software Engineer Association

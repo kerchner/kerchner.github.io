@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Daniel Kerchner"
+  site-url: https://kerchner.github.io
+  description: "Data Scientist, Software Developer, Bioinformatician, and Instructor"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experience.qmd
+        text: Experience
+      - href: research.qmd
+        text: Research & Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+    right:
+      - icon: github
+        href: https://github.com/kerchner
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Daniel Kerchner"
+    center: |
+      [ORCID](https://orcid.org/0000-0002-5921-2193) · [Google Scholar](https://scholar.google.com/citations?user=yQqpgogAAAAJ) · [GitHub](https://github.com/kerchner) · [LinkedIn](https://www.linkedin.com/in/dankerchner)
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/theme.scss]
+      dark: [cosmo, styles/theme-dark.scss]
+    toc: true
+    link-external-newwindow: true
+    smooth-scroll: true

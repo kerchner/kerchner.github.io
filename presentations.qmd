@@ -1,0 +1,57 @@
+---
+title: "Presentations"
+---
+
+Selected talks, guest lectures, and conference presentations.
+
+## 2026
+
+- **Kerchner D.** (March 2026). Pixi: Fast, Reproducible Environments for Python, R and More Without the Headaches. *GW Open Source Conference*.
+
+## 2025
+
+- **Kerchner D.** (March 2025). Positioning the R in Open Source: RStudio + GitHub + renv Workflows. *GW Open Source Conference*.
+- **Kerchner D.** (July 2024 and July 2025). [You Can Be a GW Student Too! A Guide for LAI Staff and Librarians](https://docs.google.com/presentation/d/1Y9rN0jB5gBRp14hYj30mYCm2Ttvyr6f6p63x_uriDPQ/). *LAI Institute*.
+
+## 2024
+
+- **Kerchner D.** (May 2024). [Association of Maternal Gestational Diabetes Mellitus with Newborn Gut Metabolome](https://docs.google.com/presentation/d/1ScFDjMF-dOk8WCWjSWCHdYUG3dqfVBqotJl8DkgaOXM/). *GW Biostatistics Center*.
+
+## 2023
+
+- **Kerchner D.** (March 2023). [Librarians Launching Success in the Era of Coding as an Essential Researcher Literacy](https://www.lib.utk.edu/emplibs/2023-sessions-presentations). *Empirical Librarians Conference*.
+
+## 2021
+
+- **Kerchner D.** (December 2021). [Social Feed Manager: A Social Media Capture Tool](https://www.dpconline.org/events/wapwg-meeting-dec2021). *Digital Preservation Coalition (UK) Web Archiving & Preservation Working Group General Meeting*.
+- **Kerchner D.** (November 2021). Version Control and Collaboration with Git[Hub], Showcasing Your Work with GitHub Pages, and Your Code as a Scholarly Object with Zenodo. Guest lecture, *GW PUBH 6860 Principles of Bioinformatics*.
+- **Kerchner D.** (April 2021). Bash Shell / Unix Command Line. Guest speaker, *GW Coders meeting*.
+- **Kerchner D.**, Bahador B. (January 2021). Spark Talk: Monitoring Hate Speech During the 2020 Presidential Election.
+
+## 2020
+
+- **Kerchner D.** (August 2020). [The ISIS Files: A Hyrax Implementation](https://www.youtube.com/watch?v=78K5ESO2Zaw&t=110s). Guest speaker, *Samvera Partners call*.
+- **Kerchner D.**, Wrubel L. (February 2020). Social Feed Manager. *Digital Preservation Coalition webinar*.
+
+## 2019
+
+- **Kerchner D.** (November 2019). RStudio + Git for Collaboration and Reproducibility. *GW Milken Institute Department of Epidemiology seminar*, Washington, DC.
+- **Kerchner D.** (September 2019). Social Feed Manager: Helping Researchers and Archivists Build Social Media Collections. *iPres 2019 Conference on Digital Preservation*, Amsterdam, Netherlands.
+- **Kerchner D.** (July 2019). Getting Data With APIs. *Capital Area Business Academic Librarians Summer Meeting*.
+
+## 2018
+
+- **Kerchner D.**, Wrubel L. (December 2018). Social Feed Manager & Social Media Archiving. *Digital Preservation Coalition webinar*.
+
+## 2017
+
+- Ye D., **Kerchner D.**, Ye H. (March 2017). Web Archiving for Librarians: A Three-University Collaboration to Preserve Non-Official Voices in China's Anti-Corruption Campaign. *ACRL Annual Meeting*, Baltimore, MD.
+- **Kerchner D.**, Wrubel L., Littman J. (March 2017). Coding Consultations: Meeting Today's Needs With a New Library Service. *WRLC Annual Meeting*, Washington, DC.
+
+## 2016
+
+- **Kerchner D.** (September 2016). GW ScholarSpace and the Making of a More Agile Library. *GW Project Management Symposium*, Washington, DC.
+
+## 2013
+
+- Chudnov D., **Kerchner D.**, Wrubel L. (December 2013). Collecting Social Media and Supporting Twitter Research with Social Feed Manager. *Coalition for Networked Information annual meeting*, Washington, DC.

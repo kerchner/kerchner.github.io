@@ -1,0 +1,48 @@
+---
+title: "Daniel Kerchner"
+image: assets/DanHeadshot.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 12em
+  links:
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-5921-2193
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=yQqpgogAAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/kerchner
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dankerchner
+    - icon: file-earmark-pdf
+      text: CV (PDF)
+      href: assets/kerchner-cv.pdf
+    - icon: envelope
+      text: Email
+      href: mailto:kerchner@gwu.edu
+---
+
+I am a **Data Scientist, Software Developer, Bioinformatician, and Instructor** with over 20 years of software development and project management experience, as well as advanced biostatistics skills.
+
+I am currently a PhD student in Health Data Science – Bioinformatics at George Washington University, with research interests in applying artificial intelligence to the analysis of genomic, metabolomic, microbiome, and other omics data. In my doctoral research, I am applying novel [genomic language models (gLMs)](research.qmd) to improve omics characterization over traditional, search-based techniques.
+
+For the past eight years, I have been a sought-after health data science consultant and instructor both within and beyond GW. As an expert R and Python programmer, I practice and advocate for best practices in collaborative, open, and reproducible research — and I [teach](teaching.qmd) other researchers the fundamental data and computational skills they need to grow and succeed in their research.
+
+## Highlights
+
+- Co-author of two 2025 papers in JAMA journals on precision psychiatry and perinatal mental health — see [Publications](publications.qmd)
+- Doctoral research benchmarking **genomic language models** for taxonomic and functional profiling in human microbiome multi-omics — see [Research & Projects](research.qmd)
+- Certified [Carpentries](https://carpentries.org/) instructor; have organized and taught Data Carpentry workshops across the U.S. and internationally — see [Teaching](teaching.qmd)
+- Developer of [Social Feed Manager](https://github.com/gwu-libraries/sfm-ui) and other open-source tools for researchers — see [Experience](experience.qmd)
+
+## Education
+
+- **Ph.D., Health Data Science – Bioinformatics**, George Washington University, expected 2028
+- **M.S., Health and Biomedical Data Science – Applied Bioinformatics**, George Washington University, 2024
+- **M.S., Systems Engineering**, University of Virginia, 1996
+- **B.S., Applied and Engineering Physics**, Cornell University, 1994

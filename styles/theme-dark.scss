@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+
+// Same typography as the light theme so only colors change between modes
+$font-family-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 600;
+
+$body-bg: #1a1a1e;
+$body-color: #d8d8d8;
+$primary: #6ca7d8; // lightened accent for contrast on dark
+$link-color: $primary;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  margin-top: 2.25rem;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  padding-bottom: 0.3rem;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.navbar {
+  font-family: $font-family-sans-serif;
+  letter-spacing: 0.02em;
+}
+
+main ul > li {
+  margin-bottom: 0.6rem;
+}
+
+div.about-links .about-link {
+  border-radius: 6px;
+}

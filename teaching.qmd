@@ -1,0 +1,44 @@
+---
+title: "Teaching"
+---
+
+I am a certified [Carpentries](https://carpentries.org/) instructor and have created and taught workshops and courses on R, Python, statistics, data visualization, the Unix shell, and Git/GitHub for researchers — at GWU and at institutions across the U.S. and internationally.
+
+## Courses & Workshops
+
+- **2026** — Instructor, [Data Carpentry](https://datacarpentry.org/) Genomics workshop (University of Utah)
+- **2017–2026** — Creator and Instructor, multiple workshop series at GWU: R for Data Analysis and Visualization, Python for Data Analysis, Statistical Inference in R, Data Visualization, Bash Shell for Researchers, Git/GitHub, and more
+- **2025** — Instructor and Organizer, Data Carpentry Metagenomics workshop (Tel Aviv University)
+- **2025** — Instructor and Organizer, Data Carpentry Genomics workshop (GWU)
+- **2024** — Instructor and Organizer, Data Carpentry Genomics workshop (Weizmann Institute of Science, Israel) — the first Data Carpentry workshop held in Israel
+- **2023** — Instructor and Organizer, Data Carpentry Metagenomics workshop (GWU)
+- **2023** — Instructor, Data Carpentry Genomics workshop (Rutgers University)
+- **2023** — Teaching Assistant, PUBH 6899, new 3-credit Data Visualization course (R, ggplot2, computational biology)
+- **2022** — Instructor and Organizer, Data Carpentry Genomics workshop (GWU)
+- **2022** — Instructor, workshops on Python for Data Analysis and R for Data Analysis; workshop series on Statistical Inference in R; Instructor, Python Camp
+- **2021** — Adjunct Instructor and creator, PUBH 6851 *Introduction to R Programming in Public Health and Biomedical Research* (GWU)
+- **2020** — Adjunct Instructor and creator, PUBH 6899 *Fundamentals of R for Biomedical and Public Health Researchers* (GWU)
+- **2018** — Instructor, Software Carpentry (Bash Shell, Git, R), Carnegie Mellon University
+- **1995** — Teaching Assistant, Decision Analysis, University of Virginia
+- **1994** — Teaching Assistant, Introduction to Engineering, University of Virginia
+- **1994** — Teaching Assistant, Data Structures and Algorithms, Johns Hopkins University Center for Talented Youth
+
+## Mentorship
+
+Mentored graduate students in software development at GWU:
+
+- Aditya Dharne (2017–2018)
+- Rithvik Mundra (2017–2018)
+- Victor Tan (2016–2018)
+- Mustafa Dasorwala (2014–2015)
+- Rajat Vij (2014–2015)
+- Ankushi Sharma (2013–2015)
+- Darshan Pandhi (2013–2014)
+
+## Community & Volunteer Roles
+
+- **2025, 2026** — Conference session proposal reviewer, [US Research Software Engineering Association](https://us-rse.org/)
+- **2025** — Conference organizing committee, GW Open Source Conference
+- **2020** — CarpentryCon 2020 conference planning committee and budget subcommittee member; planned budget, scholarships, and scheduling of over 60 presentations
+- **2019** — CarpentryConnect DC task force lead
+- **2016** — Code4Lib Conference Diversity Scholarship committee member; created framework for application review and awards

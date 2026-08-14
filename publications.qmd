@@ -1,0 +1,36 @@
+---
+title: "Publications"
+---
+
+Also see my [Google Scholar profile](https://scholar.google.com/citations?user=yQqpgogAAAAJ), [ORCID record](https://orcid.org/0000-0002-5921-2193), and [full CV (PDF)](assets/kerchner-cv.pdf).
+
+## Peer-Reviewed Publications
+
+- Solomonov N., **Kerchner D.**, Bein O., et al. (2025). Precision Assignment to Psychosocial Interventions for Late-Life Depression: An Automated Treatment Decision Rule. *JAMA Psychiatry*, 82(11), 1075–1084. [doi:10.1001/jamapsychiatry.2025.2518](https://doi.org/10.1001/jamapsychiatry.2025.2518)
+- Solomonov N., **Kerchner D.**, Dai Y., et al. (2025). Prevalence and Trajectories of Perinatal Anxiety and Depression in a Large Urban Medical Center. *JAMA Network Open*, 8(9), e2533111. [doi:10.1001/jamanetworkopen.2025.33111](https://doi.org/10.1001/jamanetworkopen.2025.33111)
+- Bahador B. and **Kerchner D.** (2025). Hating the Other as a Cross-Cutting Issue: Assessing the Role of Media Surrogate Organizations. In Livingston S., Miller M. (eds.), *Connective Action and the Rise of the Far-Right: Platforms, Politics, and the Crisis of Democracy*. Oxford University Press. [doi:10.1093/oso/9780197794937.003.0010](https://doi.org/10.1093/oso/9780197794937.003.0010)
+- Das B., Attia M., Nguyen C., Chen Q., **Kerchner D.** (2024). Navigating Identity and Mental Health on Instagram: Edu-fluencers in the Asian American Pacific Islander Community. *Journal of Multicultural Counseling and Development*, 1–12. [doi:10.1002/jmcd.12306](https://doi.org/10.1002/jmcd.12306)
+- Litman E., Yin T., Nelson S., Capbarat E., **Kerchner D.**, Ahmadzia H. (2022). Adverse Perinatal Outcomes in a Large US Birth Cohort During the COVID-19 Pandemic. *American Journal of Obstetrics & Gynecology MFM*, 4(3). [doi:10.1016/j.ajogmf.2022.100577](https://doi.org/10.1016/j.ajogmf.2022.100577)
+- Broniatowski D., **Kerchner D.**, Farooq F., Huang X., Jamison A., Dredze M., et al. (2022). Twitter and Facebook Posts About COVID-19 Are Less Likely to Spread Misinformation Compared to Other Health Topics. *PLoS ONE*, 17(1). [doi:10.1371/journal.pone.0261768](https://doi.org/10.1371/journal.pone.0261768)
+- Akhtar A., Naik K., Rao V., Garland V., Cioffi J., Testa S., **Kerchner D.**, Borum M. L. (2020). S0198 An Analysis on the Use of Twitter Pertaining to COVID Gastrointestinal Symptoms. *American Journal of Gastroenterology*, 115(1), S68. [doi:10.14309/01.ajg.0000702840.94944.82](https://doi.org/10.14309/01.ajg.0000702840.94944.82)
+- Garland V., Tick M., Naik K., Carro-Cruz F., Sohail F., Khouqeer A., Raddaoui L., **Kerchner D.**, Borum M. L. (2020). S3190 #COVID19: Twitter as a Resource for IBD Patients During a Global Pandemic. *American Journal of Gastroenterology*, 115(1), S1675. [doi:10.14309/01.ajg.0000714808.26073.18](https://doi.org/10.14309/01.ajg.0000714808.26073.18)
+- Littman J., Chudnov D., **Kerchner D.**, Peterson C., Tan Y., Trent R., Vij R., Wrubel L. (2018). API-Based Social Media Collecting as a Form of Web Archiving. *International Journal on Digital Libraries*, 19(1), 21–38. [doi:10.1007/s00799-016-0201-7](https://doi.org/10.1007/s00799-016-0201-7)
+- Goel V., **Kerchner D.** (co-first authors) (2017). WADL 2016 Panels: Worldwide Activities on Web Archiving; Social Media, Web Archiving, and Digital Libraries. *Bulletin of IEEE Technical Committee on Digital Libraries*, 31(1).
+- Ye Y., Ye D., Zeljak C., **Kerchner D.**, He Y., Littman J. (2017). Web-Archiving Chinese Social Media: Final Project Report. *Journal of East Asian Libraries*, 2017(165), Article 11.
+- Littman J., **Kerchner D.**, He Y., Tan Y., Zeljak C. (2017). Collecting Social Media Data from the Sina Weibo API. *Journal of East Asian Libraries*.
+- Wrubel L., **Kerchner D.**, Littman J. (2016). Need Help with Your Code? Piloting a Programming and Software Development Consultation Service. *Code4Lib Journal*, 34.
+- Chudnov D., **Kerchner D.**, Sharma A., Wrubel L. (2014). Technical Challenges in Developing Software to Collect Twitter Data. *Code4Lib Journal*, 26.
+- Sinex C., **Kerchner D.**, Cox K., Basile S., Sellers W., Hindman E., Loftus S., Hummel J. (1998). WLTAE: An HLA Federation for Logistics and Warfighting Models. *Proceedings of the Fall SISO Simulation Interoperability Workshop*.
+
+## Preprints & Pending Publications
+
+- Ortega-Santos C., **Kerchner D.**, Rahnavard A., Crandall K. (2026). Acute Exercise-Induced Changes in Gut Microbiome Composition, Function, and Gut-Derived Stool and Plasma Metabolome Across Obesity Phenotypes in Young-Adult Women: A Pilot Study Protocol. *medRxiv*. [doi:10.64898/2026.07.10.26357758](https://doi.org/10.64898/2026.07.10.26357758)
+- Farooq F., Oakley E., **Kerchner D.**, et al. (2023). Risk of Adverse Maternal and Fetal Outcomes Associated with COVID-19 Variants of Concern: A Sequential Prospective Meta-Analysis. *medRxiv*. [doi:10.1101/2023.04.03.23287260](https://doi.org/10.1101/2023.04.03.23287260)
+- **Kerchner D.**, Rahnavard G. (2024). Association of Maternal Gestational Diabetes Mellitus with Newborn Gut Metabolome.
+
+## Datasets, Reports & Other Publications
+
+- **Kerchner D.**, Wrubel L. (2020). Coronavirus Tweet Ids [Data set]. *Harvard Dataverse*. [doi:10.7910/DVN/LW0BTB](https://doi.org/10.7910/DVN/LW0BTB)
+- Bahador B., **Kerchner D.** (2019). [Monitoring Hate Speech in the US Media](https://mediapeaceproject.smpa.gwu.edu/report-2/) (report). GW Media and Peacebuilding Project.
+- **Kerchner D.** (2016). [Are You Living in a Filter Bubble?](https://web.archive.org/web/20210725172936/http://library.gwu.edu/scholarly-technology-group/posts/are-you-living-filter-bubble-web-searching-privacy-objectivity) Web searching, privacy, objectivity, and GW Libraries search (blog post; archived).
+- **Kerchner D.** (1996). Forecasting Site Selection Using Data Association. Master's thesis, University of Virginia.
