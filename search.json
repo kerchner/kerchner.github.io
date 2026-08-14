@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Selected talks, guest lectures, and conference presentations."
+  },
+  {
+    "objectID": "presentations.html#section",
+    "href": "presentations.html#section",
+    "title": "Presentations",
+    "section": "2026",
+    "text": "2026\n\nKerchner D. (March 2026). Pixi: Fast, Reproducible Environments for Python, R and More Without the Headaches. GW Open Source Conference."
+  },
+  {
+    "objectID": "presentations.html#section-1",
+    "href": "presentations.html#section-1",
+    "title": "Presentations",
+    "section": "2025",
+    "text": "2025\n\nKerchner D. (March 2025). Positioning the R in Open Source: RStudio + GitHub + renv Workflows. GW Open Source Conference.\nKerchner D. (July 2024 and July 2025). You Can Be a GW Student Too! A Guide for LAI Staff and Librarians. LAI Institute."
+  },
+  {
+    "objectID": "presentations.html#section-2",
+    "href": "presentations.html#section-2",
+    "title": "Presentations",
+    "section": "2024",
+    "text": "2024\n\nKerchner D. (May 2024). Association of Maternal Gestational Diabetes Mellitus with Newborn Gut Metabolome. GW Biostatistics Center."
+  },
+  {
+    "objectID": "presentations.html#section-3",
+    "href": "presentations.html#section-3",
+    "title": "Presentations",
+    "section": "2023",
+    "text": "2023\n\nKerchner D. (March 2023). Librarians Launching Success in the Era of Coding as an Essential Researcher Literacy. Empirical Librarians Conference."
+  },
+  {
+    "objectID": "presentations.html#section-4",
+    "href": "presentations.html#section-4",
+    "title": "Presentations",
+    "section": "2021",
+    "text": "2021\n\nKerchner D. (December 2021). Social Feed Manager: A Social Media Capture Tool. Digital Preservation Coalition (UK) Web Archiving & Preservation Working Group General Meeting.\nKerchner D. (November 2021). Version Control and Collaboration with Git[Hub], Showcasing Your Work with GitHub Pages, and Your Code as a Scholarly Object with Zenodo. Guest lecture, GW PUBH 6860 Principles of Bioinformatics.\nKerchner D. (April 2021). Bash Shell / Unix Command Line. Guest speaker, GW Coders meeting.\nKerchner D., Bahador B. (January 2021). Spark Talk: Monitoring Hate Speech During the 2020 Presidential Election."
+  },
+  {
+    "objectID": "presentations.html#section-5",
+    "href": "presentations.html#section-5",
+    "title": "Presentations",
+    "section": "2020",
+    "text": "2020\n\nKerchner D. (August 2020). The ISIS Files: A Hyrax Implementation. Guest speaker, Samvera Partners call.\nKerchner D., Wrubel L. (February 2020). Social Feed Manager. Digital Preservation Coalition webinar."
+  },
+  {
+    "objectID": "presentations.html#section-6",
+    "href": "presentations.html#section-6",
+    "title": "Presentations",
+    "section": "2019",
+    "text": "2019\n\nKerchner D. (November 2019). RStudio + Git for Collaboration and Reproducibility. GW Milken Institute Department of Epidemiology seminar, Washington, DC.\nKerchner D. (September 2019). Social Feed Manager: Helping Researchers and Archivists Build Social Media Collections. iPres 2019 Conference on Digital Preservation, Amsterdam, Netherlands.\nKerchner D. (July 2019). Getting Data With APIs. Capital Area Business Academic Librarians Summer Meeting."
+  },
+  {
+    "objectID": "presentations.html#section-7",
+    "href": "presentations.html#section-7",
+    "title": "Presentations",
+    "section": "2018",
+    "text": "2018\n\nKerchner D., Wrubel L. (December 2018). Social Feed Manager & Social Media Archiving. Digital Preservation Coalition webinar."
+  },
+  {
+    "objectID": "presentations.html#section-8",
+    "href": "presentations.html#section-8",
+    "title": "Presentations",
+    "section": "2017",
+    "text": "2017\n\nYe D., Kerchner D., Ye H. (March 2017). Web Archiving for Librarians: A Three-University Collaboration to Preserve Non-Official Voices in China’s Anti-Corruption Campaign. ACRL Annual Meeting, Baltimore, MD.\nKerchner D., Wrubel L., Littman J. (March 2017). Coding Consultations: Meeting Today’s Needs With a New Library Service. WRLC Annual Meeting, Washington, DC."
+  },
+  {
+    "objectID": "presentations.html#section-9",
+    "href": "presentations.html#section-9",
+    "title": "Presentations",
+    "section": "2016",
+    "text": "2016\n\nKerchner D. (September 2016). GW ScholarSpace and the Making of a More Agile Library. GW Project Management Symposium, Washington, DC."
+  },
+  {
+    "objectID": "presentations.html#section-10",
+    "href": "presentations.html#section-10",
+    "title": "Presentations",
+    "section": "2013",
+    "text": "2013\n\nChudnov D., Kerchner D., Wrubel L. (December 2013). Collecting Social Media and Supporting Twitter Research with Social Feed Manager. Coalition for Networked Information annual meeting, Washington, DC."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "May 2013 – Present\nSenior Software Developer and Librarian, GW Libraries\nDeveloping open-source web applications and infrastructure supporting digital preservation and archiving, web development, catalog integration, and library information technology. Sharing expertise with students, researchers, and faculty by providing consultations and teaching workshops in Python, R, and related topics focused on data skills. Projects include:\n\nOpen Access Analytics — Building a data pipeline and executive-level dashboard to track compliance with GW’s new Open Access Policy across faculty-authored scholarly publications.\nGW ScholarSpace — Primary software developer of GWU’s institutional open-access scholarship repository, built with Hyrax, Ruby on Rails, and other technologies.\nThe ISIS Files — Primary software developer for a Hyrax-based public repository of specialized artifacts, in collaboration with the GW Program on Extremism.\nSocial Feed Manager — Software developer of this GWU-built tool that helps researchers build collections of social media data from Twitter and other platforms. Built with Python, Django, PostgreSQL, Docker, APScheduler, RabbitMQ, and other technologies. Worked with numerous researchers in the GWU community to build collections of interest.\n\nAdjunct Instructor, Milken Institute School of Public Health\nCo-creator and co-instructor of a new 1-credit course, Introduction to R Programming in Public Health and Biomedical Research (PUBH 6899 / PUBH 6851), offered through the Milken Institute School of Public Health Summer Institute. Delivered online in Summer 2020 and Summer 2021."
+  },
+  {
+    "objectID": "experience.html#george-washington-university-washington-dc",
+    "href": "experience.html#george-washington-university-washington-dc",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "May 2013 – Present\nSenior Software Developer and Librarian, GW Libraries\nDeveloping open-source web applications and infrastructure supporting digital preservation and archiving, web development, catalog integration, and library information technology. Sharing expertise with students, researchers, and faculty by providing consultations and teaching workshops in Python, R, and related topics focused on data skills. Projects include:\n\nOpen Access Analytics — Building a data pipeline and executive-level dashboard to track compliance with GW’s new Open Access Policy across faculty-authored scholarly publications.\nGW ScholarSpace — Primary software developer of GWU’s institutional open-access scholarship repository, built with Hyrax, Ruby on Rails, and other technologies.\nThe ISIS Files — Primary software developer for a Hyrax-based public repository of specialized artifacts, in collaboration with the GW Program on Extremism.\nSocial Feed Manager — Software developer of this GWU-built tool that helps researchers build collections of social media data from Twitter and other platforms. Built with Python, Django, PostgreSQL, Docker, APScheduler, RabbitMQ, and other technologies. Worked with numerous researchers in the GWU community to build collections of interest.\n\nAdjunct Instructor, Milken Institute School of Public Health\nCo-creator and co-instructor of a new 1-credit course, Introduction to R Programming in Public Health and Biomedical Research (PUBH 6899 / PUBH 6851), offered through the Milken Institute School of Public Health Summer Institute. Delivered online in Summer 2020 and Summer 2021."
+  },
+  {
+    "objectID": "experience.html#weill-cornell-medical-college",
+    "href": "experience.html#weill-cornell-medical-college",
+    "title": "Professional Experience",
+    "section": "Weill Cornell Medical College",
+    "text": "Weill Cornell Medical College\nNovember 2021 – Present\nData Science / R Coding / Biostatistics Consultant\nProviding advanced data analysis and visualization services, R coding mentoring, and problem-solving consultation for a psychiatry research group performing NIH grant-funded large-scale clinical trial research."
+  },
+  {
+    "objectID": "experience.html#distributed-solutions-inc.-reston-va",
+    "href": "experience.html#distributed-solutions-inc.-reston-va",
+    "title": "Professional Experience",
+    "section": "Distributed Solutions, Inc. — Reston, VA",
+    "text": "Distributed Solutions, Inc. — Reston, VA\n2010 – May 2013\nSenior Software Product Manager — Managed product release cycle, development workflow, and issue triage for the AEON acquisition/procurement solution, following a Scrum-based process.\nCustomer Program Manager — Working closely with the Department of Justice Office of Justice Programs, led end-to-end process analysis, data migration, configuration, testing, and training for a new AEON implementation, resulting in on-time initial deployment of the “JPAMS” acquisition management system.\nSoftware Development and Quality Assurance Manager — Led, mentored, and supervised a software development team of 10–12 developers and the software quality assurance team. Served as accessibility compliance analyst."
+  },
+  {
+    "objectID": "experience.html#caci-international-american-management-systems-fairfax-va",
+    "href": "experience.html#caci-international-american-management-systems-fairfax-va",
+    "title": "Professional Experience",
+    "section": "CACI International / American Management Systems — Fairfax, VA",
+    "text": "CACI International / American Management Systems — Fairfax, VA\n2000 – 2010\nSenior Project Manager, Library of Congress program — Managed and hired 30+ staff and contractors, including software developers and technical analysts supporting Library of Congress projects such as the World Digital Library and the National Digital Newspaper Program. Primary liaison with LC directors.\nProgram Manager and Technical Architect, DoD Office of Economic Adjustment (OEA) program — Technical architect for integration of Common Access Card authentication, PKI digital signature capability, and grants.gov integration. Primary liaison with OEA executives; supervised software development and testing teams.\nTechnical Architect / Lead Software Developer, ComprizonSuite — Developed Java-based integration of LDAP authentication and PDF rendering capability.\nTechnical Team Lead / Technical Architect, Procurement Desktop-Defense — Led development of Java-based web services integration with a data security management system; configuration/policy manager for multiple development and testing environments.\nTechnical Architect / Lead Software Developer, Procurement Desktop-Industry — Designed and implemented RTF and PDF document rendering and template design capability (Java, XML/XSLT, third-party software); supervised software development team. Lead data migration analyst on a major upgrade; developed an adapter to integrate with external systems.\nTechnical Architect and Software Developer — Developer of a web-based Internet Billing Consolidator product (Java/J2EE); showcased the product as a sales engineer."
+  },
+  {
+    "objectID": "experience.html#johns-hopkins-university-applied-physics-laboratory-laurel-md",
+    "href": "experience.html#johns-hopkins-university-applied-physics-laboratory-laurel-md",
+    "title": "Professional Experience",
+    "section": "Johns Hopkins University Applied Physics Laboratory — Laurel, MD",
+    "text": "Johns Hopkins University Applied Physics Laboratory — Laurel, MD\n1996 – 2000\nSenior Professional Staff — Architect and developer of a prototype C++ dynamic linkage of warfighting and logistics simulations at JHU APL; active in integration standards development within the simulation community; decision support expert supporting workshops to achieve consensus on functional requirements for Joint Warfare Simulation software development."
+  },
+  {
+    "objectID": "experience.html#earlier-roles",
+    "href": "experience.html#earlier-roles",
+    "title": "Professional Experience",
+    "section": "Earlier Roles",
+    "text": "Earlier Roles\n\nTeaching Assistant, University of Virginia (1994–1996) — Taught Introduction to Systems Engineering and Decision Analysis.\nTeaching Assistant, Johns Hopkins University Center for Talented Youth (1994) — Taught Data Structures and Algorithms (LISP/Scheme).\nSoftware Developer, Decision-Science Applications, Inc., Arlington, VA (summers, 1990–1993) — Developed data visualization software (C++/X-Windows); developed and implemented mathematical algorithms for radar image processing."
+  },
+  {
+    "objectID": "experience.html#professional-certifications",
+    "href": "experience.html#professional-certifications",
+    "title": "Professional Experience",
+    "section": "Professional Certifications",
+    "text": "Professional Certifications\n\nCertified Data Carpentry / Software Carpentry Instructor, The Carpentries (2018–present)\nProject Management Professional (PMP), Project Management Institute (2008–present)"
+  },
+  {
+    "objectID": "experience.html#professional-memberships",
+    "href": "experience.html#professional-memberships",
+    "title": "Professional Experience",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nInternational Society for Computational Biology\nProject Management Institute\nUS Research Software Engineer Association"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Benchmarking and application of genomic language models (gLMs) for taxonomic and functional profiling in human multi-omics microbiome research (George Washington University, PhD in Health Data Science – Bioinformatics, expected 2028). My work explores how novel gLMs can improve omics characterization over traditional, search-based techniques."
+  },
+  {
+    "objectID": "research.html#doctoral-research",
+    "href": "research.html#doctoral-research",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Benchmarking and application of genomic language models (gLMs) for taxonomic and functional profiling in human multi-omics microbiome research (George Washington University, PhD in Health Data Science – Bioinformatics, expected 2028). My work explores how novel gLMs can improve omics characterization over traditional, search-based techniques."
+  },
+  {
+    "objectID": "research.html#weill-cornell-medical-college",
+    "href": "research.html#weill-cornell-medical-college",
+    "title": "Research & Projects",
+    "section": "Weill Cornell Medical College",
+    "text": "Weill Cornell Medical College\n2021 – Present · Collaboration with Dr. Nili Solomonov\n\nApplying a Treatment Decision Rule–based framework for optimally assigning patients with late-life depression to psychotherapy vs. usual care — published in JAMA Psychiatry.\nAnalysis and visualization of depression trajectories in a large cohort of perinatal women — published in JAMA Network Open."
+  },
+  {
+    "objectID": "research.html#george-washington-university",
+    "href": "research.html#george-washington-university",
+    "title": "Research & Projects",
+    "section": "George Washington University",
+    "text": "George Washington University\n2013 – Present\n\nMaster of Science project: Association of maternal gestational diabetes mellitus with newborn gut metabolome.\nMachine learning: Predictive modeling to identify biomarkers associated with asthma comorbidity using both clinical and airway microbiome data.\nFDA-ARGOS: Data harmonization to prototype the FDA-ARGOS database of reference-grade microbial sequences, in collaboration with Dr. Keith Crandall.\nCOVID-19 meta-analysis: PRISMA and other projects — advising on R coding, data wrangling, and data visualization, collaborating with Dr. Fouzia Farooq, Dept. of Global Health.\nGeospatial analysis: Collaborated with Dr. Hilary Silver, Dept. of Sociology, on geospatial data analysis of DC homeless shelter proposal feedback from local residents, using R.\nMaternal health: Collaborated with Dr. Ethan Litman, GW School of Medicine, on data analysis of maternal deliveries before and during the COVID-19 pandemic.\nMental health influencers: Collaborated with Dr. Bagmi Das, GW School of Education and Human Development, to build data collection for an Asian-American/Pacific Islander Mental Health Influencer Study.\nSocial media & misinformation: Cross-institutional collaboration led by Dr. David Broniatowski, GW School of Engineering, analyzing and visualizing social media content related to COVID-19.\nHealth topics on social media: Collaborated with two teams of medical students under the guidance of Dr. Marie Borum, providing data collection and analysis guidance on social media discussion of health topics during the COVID-19 pandemic.\nExtremism research: Collaborated with the GW Program on Extremism to collect and analyze social media from Twitter and Telegram in support of research publications and reports.\nText mining: Collaborated with Dr. Babak Bahador, GW School of Media and Public Affairs, to develop a text mining and data analysis pipeline for transcripts of political talk shows.\nConsulting on numerous graduate-level and faculty research projects involving data analysis and visualization, across a wide variety of disciplines."
+  },
+  {
+    "objectID": "research.html#software-projects",
+    "href": "research.html#software-projects",
+    "title": "Research & Projects",
+    "section": "Software Projects",
+    "text": "Software Projects\n\nSocial Feed Manager — open-source tool for building social media data collections for research (Python, Django, Docker).\nGW ScholarSpace — GWU’s institutional open-access repository (Hyrax, Ruby on Rails).\nThe ISIS Files — Hyrax-based public repository of specialized artifacts, with the GW Program on Extremism.\nOpen Access Analytics — data pipeline and dashboard tracking GW Open Access Policy compliance.\n\nSee Experience for more on these projects."
+  },
+  {
+    "objectID": "research.html#grants",
+    "href": "research.html#grants",
+    "title": "Research & Projects",
+    "section": "Grants",
+    "text": "Grants\n\n2025 — US Research Software Engineer (US-RSE) Association Community and Travel Funds grant ($1,500) to organize and teach a Metagenomics Data Carpentry workshop at Tel Aviv University in October 2025.\n2024 — US-RSE Association Community and Travel Funds grant ($2,500) to organize and teach the first-ever Data Carpentry workshop in Israel: a successful 3-day Genomics Data Carpentry workshop at the Weizmann Institute of Science in October 2024.\n2024 — Lesson proposal selected among 8 finalists for the UCLA-IMLS Lessons for Librarians in Open Science 2024 cohort, with a $5,000 stipend.\n2019–2021 — Co-Principal Investigator, Continuing Education to Advance Web Archiving (CEDWARC), Institute of Museum and Library Services."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am a certified Carpentries instructor and have created and taught workshops and courses on R, Python, statistics, data visualization, the Unix shell, and Git/GitHub for researchers — at GWU and at institutions across the U.S. and internationally."
+  },
+  {
+    "objectID": "teaching.html#courses-workshops",
+    "href": "teaching.html#courses-workshops",
+    "title": "Teaching",
+    "section": "Courses & Workshops",
+    "text": "Courses & Workshops\n\n2026 — Instructor, Data Carpentry Genomics workshop (University of Utah)\n2017–2026 — Creator and Instructor, multiple workshop series at GWU: R for Data Analysis and Visualization, Python for Data Analysis, Statistical Inference in R, Data Visualization, Bash Shell for Researchers, Git/GitHub, and more\n2025 — Instructor and Organizer, Data Carpentry Metagenomics workshop (Tel Aviv University)\n2025 — Instructor and Organizer, Data Carpentry Genomics workshop (GWU)\n2024 — Instructor and Organizer, Data Carpentry Genomics workshop (Weizmann Institute of Science, Israel) — the first Data Carpentry workshop held in Israel\n2023 — Instructor and Organizer, Data Carpentry Metagenomics workshop (GWU)\n2023 — Instructor, Data Carpentry Genomics workshop (Rutgers University)\n2023 — Teaching Assistant, PUBH 6899, new 3-credit Data Visualization course (R, ggplot2, computational biology)\n2022 — Instructor and Organizer, Data Carpentry Genomics workshop (GWU)\n2022 — Instructor, workshops on Python for Data Analysis and R for Data Analysis; workshop series on Statistical Inference in R; Instructor, Python Camp\n2021 — Adjunct Instructor and creator, PUBH 6851 Introduction to R Programming in Public Health and Biomedical Research (GWU)\n2020 — Adjunct Instructor and creator, PUBH 6899 Fundamentals of R for Biomedical and Public Health Researchers (GWU)\n2018 — Instructor, Software Carpentry (Bash Shell, Git, R), Carnegie Mellon University\n1995 — Teaching Assistant, Decision Analysis, University of Virginia\n1994 — Teaching Assistant, Introduction to Engineering, University of Virginia\n1994 — Teaching Assistant, Data Structures and Algorithms, Johns Hopkins University Center for Talented Youth"
+  },
+  {
+    "objectID": "teaching.html#mentorship",
+    "href": "teaching.html#mentorship",
+    "title": "Teaching",
+    "section": "Mentorship",
+    "text": "Mentorship\nMentored graduate students in software development at GWU:\n\nAditya Dharne (2017–2018)\nRithvik Mundra (2017–2018)\nVictor Tan (2016–2018)\nMustafa Dasorwala (2014–2015)\nRajat Vij (2014–2015)\nAnkushi Sharma (2013–2015)\nDarshan Pandhi (2013–2014)"
+  },
+  {
+    "objectID": "teaching.html#community-volunteer-roles",
+    "href": "teaching.html#community-volunteer-roles",
+    "title": "Teaching",
+    "section": "Community & Volunteer Roles",
+    "text": "Community & Volunteer Roles\n\n2025, 2026 — Conference session proposal reviewer, US Research Software Engineering Association\n2025 — Conference organizing committee, GW Open Source Conference\n2020 — CarpentryCon 2020 conference planning committee and budget subcommittee member; planned budget, scholarships, and scheduling of over 60 presentations\n2019 — CarpentryConnect DC task force lead\n2016 — Code4Lib Conference Diversity Scholarship committee member; created framework for application review and awards"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Kerchner",
+    "section": "",
+    "text": "I am a Data Scientist, Software Developer, Bioinformatician, and Instructor with over 20 years of software development and project management experience, as well as advanced biostatistics skills.\nI am currently a PhD student in Health Data Science – Bioinformatics at George Washington University, with research interests in applying artificial intelligence to the analysis of genomic, metabolomic, microbiome, and other omics data. In my doctoral research, I am applying novel genomic language models (gLMs) to improve omics characterization over traditional, search-based techniques.\nFor the past eight years, I have been a sought-after health data science consultant and instructor both within and beyond GW. As an expert R and Python programmer, I practice and advocate for best practices in collaborative, open, and reproducible research — and I teach other researchers the fundamental data and computational skills they need to grow and succeed in their research."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Daniel Kerchner",
+    "section": "Highlights",
+    "text": "Highlights\n\nCo-author of two 2025 papers in JAMA journals on precision psychiatry and perinatal mental health — see Publications\nDoctoral research benchmarking genomic language models for taxonomic and functional profiling in human microbiome multi-omics — see Research & Projects\nCertified Carpentries instructor; have organized and taught Data Carpentry workshops across the U.S. and internationally — see Teaching\nDeveloper of Social Feed Manager and other open-source tools for researchers — see Experience"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Kerchner",
+    "section": "Education",
+    "text": "Education\n\nPh.D., Health Data Science – Bioinformatics, George Washington University, expected 2028\nM.S., Health and Biomedical Data Science – Applied Bioinformatics, George Washington University, 2024\nM.S., Systems Engineering, University of Virginia, 1996\nB.S., Applied and Engineering Physics, Cornell University, 1994"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Also see my Google Scholar profile, ORCID record, and full CV (PDF)."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\nSolomonov N., Kerchner D., Bein O., et al. (2025). Precision Assignment to Psychosocial Interventions for Late-Life Depression: An Automated Treatment Decision Rule. JAMA Psychiatry, 82(11), 1075–1084. doi:10.1001/jamapsychiatry.2025.2518\nSolomonov N., Kerchner D., Dai Y., et al. (2025). Prevalence and Trajectories of Perinatal Anxiety and Depression in a Large Urban Medical Center. JAMA Network Open, 8(9), e2533111. doi:10.1001/jamanetworkopen.2025.33111\nBahador B. and Kerchner D. (2025). Hating the Other as a Cross-Cutting Issue: Assessing the Role of Media Surrogate Organizations. In Livingston S., Miller M. (eds.), Connective Action and the Rise of the Far-Right: Platforms, Politics, and the Crisis of Democracy. Oxford University Press. doi:10.1093/oso/9780197794937.003.0010\nDas B., Attia M., Nguyen C., Chen Q., Kerchner D. (2024). Navigating Identity and Mental Health on Instagram: Edu-fluencers in the Asian American Pacific Islander Community. Journal of Multicultural Counseling and Development, 1–12. doi:10.1002/jmcd.12306\nLitman E., Yin T., Nelson S., Capbarat E., Kerchner D., Ahmadzia H. (2022). Adverse Perinatal Outcomes in a Large US Birth Cohort During the COVID-19 Pandemic. American Journal of Obstetrics & Gynecology MFM, 4(3). doi:10.1016/j.ajogmf.2022.100577\nBroniatowski D., Kerchner D., Farooq F., Huang X., Jamison A., Dredze M., et al. (2022). Twitter and Facebook Posts About COVID-19 Are Less Likely to Spread Misinformation Compared to Other Health Topics. PLoS ONE, 17(1). doi:10.1371/journal.pone.0261768\nAkhtar A., Naik K., Rao V., Garland V., Cioffi J., Testa S., Kerchner D., Borum M. L. (2020). S0198 An Analysis on the Use of Twitter Pertaining to COVID Gastrointestinal Symptoms. American Journal of Gastroenterology, 115(1), S68. doi:10.14309/01.ajg.0000702840.94944.82\nGarland V., Tick M., Naik K., Carro-Cruz F., Sohail F., Khouqeer A., Raddaoui L., Kerchner D., Borum M. L. (2020). S3190 #COVID19: Twitter as a Resource for IBD Patients During a Global Pandemic. American Journal of Gastroenterology, 115(1), S1675. doi:10.14309/01.ajg.0000714808.26073.18\nLittman J., Chudnov D., Kerchner D., Peterson C., Tan Y., Trent R., Vij R., Wrubel L. (2018). API-Based Social Media Collecting as a Form of Web Archiving. International Journal on Digital Libraries, 19(1), 21–38. doi:10.1007/s00799-016-0201-7\nGoel V., Kerchner D. (co-first authors) (2017). WADL 2016 Panels: Worldwide Activities on Web Archiving; Social Media, Web Archiving, and Digital Libraries. Bulletin of IEEE Technical Committee on Digital Libraries, 31(1).\nYe Y., Ye D., Zeljak C., Kerchner D., He Y., Littman J. (2017). Web-Archiving Chinese Social Media: Final Project Report. Journal of East Asian Libraries, 2017(165), Article 11.\nLittman J., Kerchner D., He Y., Tan Y., Zeljak C. (2017). Collecting Social Media Data from the Sina Weibo API. Journal of East Asian Libraries.\nWrubel L., Kerchner D., Littman J. (2016). Need Help with Your Code? Piloting a Programming and Software Development Consultation Service. Code4Lib Journal, 34.\nChudnov D., Kerchner D., Sharma A., Wrubel L. (2014). Technical Challenges in Developing Software to Collect Twitter Data. Code4Lib Journal, 26.\nSinex C., Kerchner D., Cox K., Basile S., Sellers W., Hindman E., Loftus S., Hummel J. (1998). WLTAE: An HLA Federation for Logistics and Warfighting Models. Proceedings of the Fall SISO Simulation Interoperability Workshop."
+  },
+  {
+    "objectID": "publications.html#preprints-pending-publications",
+    "href": "publications.html#preprints-pending-publications",
+    "title": "Publications",
+    "section": "Preprints & Pending Publications",
+    "text": "Preprints & Pending Publications\n\nOrtega-Santos C., Kerchner D., Rahnavard A., Crandall K. (2026). Acute Exercise-Induced Changes in Gut Microbiome Composition, Function, and Gut-Derived Stool and Plasma Metabolome Across Obesity Phenotypes in Young-Adult Women: A Pilot Study Protocol. medRxiv. doi:10.64898/2026.07.10.26357758\nFarooq F., Oakley E., Kerchner D., et al. (2023). Risk of Adverse Maternal and Fetal Outcomes Associated with COVID-19 Variants of Concern: A Sequential Prospective Meta-Analysis. medRxiv. doi:10.1101/2023.04.03.23287260\nKerchner D., Rahnavard G. (2024). Association of Maternal Gestational Diabetes Mellitus with Newborn Gut Metabolome."
+  },
+  {
+    "objectID": "publications.html#datasets-reports-other-publications",
+    "href": "publications.html#datasets-reports-other-publications",
+    "title": "Publications",
+    "section": "Datasets, Reports & Other Publications",
+    "text": "Datasets, Reports & Other Publications\n\nKerchner D., Wrubel L. (2020). Coronavirus Tweet Ids [Data set]. Harvard Dataverse. doi:10.7910/DVN/LW0BTB\nBahador B., Kerchner D. (2019). Monitoring Hate Speech in the US Media (report). GW Media and Peacebuilding Project.\nKerchner D. (2016). Are You Living in a Filter Bubble? Web searching, privacy, objectivity, and GW Libraries search (blog post; archived).\nKerchner D. (1996). Forecasting Site Selection Using Data Association. Master’s thesis, University of Virginia."
+  }
+]
